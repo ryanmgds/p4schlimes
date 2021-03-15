@@ -1,2 +1,6 @@
 # p4schlimes
-Max is the GOAT
+
+Scrum Master - Ryan
+Members - Noah, Carter, Brayden, Max
+
+
