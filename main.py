@@ -2,9 +2,13 @@ from flask import Flask, render_template
 
 app = Flask(__name__)
 
-@app.route('/main')
+@app.route('/')
 def main():
     return render_template("main.html")
+
+@app.route('/reactiontest')
+def reactiontest():
+    return render_template("reactiontest.html")
 
 @app.route('/bio')
 def aboutus():
